@@ -2,3 +2,5 @@
 #################
 
 - WON перестал существовать (https://ru.wikipedia.org/wiki/World_Opponent_Network)
+- Ubuntu SDL 1.2
+  sudo apt-get install libsdl1.2-dev libsdl1.2debian
