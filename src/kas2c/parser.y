@@ -6,6 +6,7 @@
 #include <string.h>
 #include <strings.h>
 #include <unistd.h>
+#include "parser.h"
 #include "Types.h"
 #include "kas2c.h"
 
